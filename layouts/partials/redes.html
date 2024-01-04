@@ -1,0 +1,18 @@
+<!-- Spotlight -->
+<section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
+    <div class="content">
+        {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        {{ with .button }}<ul class="actions">
+            <li><a href="{{ .link }}" class="button small smooth-scroll-middle">{{ .label }}</a></li>
+            <li><a href="{{ .link1 }} " class="button small smooth-scroll-middle">{{ .label1 }}</a></li>
+            <li><a href="{{ .link2 }}" class="button small smooth-scroll-middle">{{ .label2 }}</a></li>
+            <li><a href="{{ .link3 }}" class="button small smooth-scroll-middle">{{ .label3 }}</a></li>
+            <li><a href="{{ .link4 }}" class="button small smooth-scroll-middle">{{ .label4 }}</a></li>
+            <li><a href="{{ .link5 }}" class="button small smooth-scroll-middle">{{ .label5 }}</a></li>
+        </ul>{{ end }}
+    </div>
+    {{ with .image }}<div class="image">
+        <img src="{{ . }}" alt="" />
+    </div>{{ end }}
+</section>

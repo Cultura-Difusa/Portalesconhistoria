@@ -1,0 +1,20 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "proyecto2"
+title : "Sobre la Investigación"
+content: |
+  Con un ímpetu divulgativo el libro incluye una breve recopilación ordenada de la historia universal de puertas, ventanas, y los ornamentos que las acompañan. No olvidamos, por supuesto, la historia de nuestras puertas y ventanas, su estudio estilístico, análisis lineal y la cartografía que los delimita. Tampoco la de los maestros y profesionales que han trabajado desde mediados del siglo XIX hasta el presente en estos portales del Sur; al fin y al cabo el propósito es siempre poner en valor nuestra cultura arquitectónica, las personas que la rodean, su idiosincrasia, y con ello parte de lo que somos como región; cerraremos nuestra investigación con un registro de algunos carpinteros y carpinteras que aun mantienen vivo este oficio
+button: 
+  label: "Saber Más"
+  link: "#proyecto3"
+  label1: "Libro"
+  link1: "#Libro"
+  label2: "Carpinteros"
+  link2: "#carpinteros"
+  label3: "Galería"
+  link3: "#galeria"
+  label4: "Repositorio"
+  link4: "#repositorio"
+  label5: "Redes"
+  link5: "#redes"
+image: "images/spotlight02.jpg"

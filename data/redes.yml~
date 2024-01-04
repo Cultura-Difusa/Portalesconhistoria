@@ -1,0 +1,6 @@
+style: "style2 onscroll-image-fade-in"
+id: "redes"
+title : ""
+content: |
+  <a target="_blank" href="https://instagram.com/portales_con_historia/" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a>
+  <a target="_blank" href="https://linkedin.com/in/maria-emilia-villagra-huijse-46440333/" class="icon brands style2 fa-linkedin"><span class="label">LinkedIn</span></a>  <a target="_blank" href="mailto:emiliavillagra@gmail.com" class="fav icon style2 fa-envelope"><span class="label">Email</span></a>

@@ -1,0 +1,20 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onload-image-fade-in onload-content-fade-right"
+id: "proyecto1"
+title : "Aspectos del Proyecto"
+content: |
+  <i>Portales con Historia</i> es un repositorio documental digital con toda la información recopilada en bruto por el proyecto, un libro digital de acceso libre (también impreso para bibliotecas e instituciones educacionales, etc.), finalmente, un trabajo de divulgación entre las comunidades sociales y educativas de la región además de redes sociales digitales. 
+button:
+  label: "Saber Más"
+  link: "#proyecto2"
+  label1: "Libro"
+  link1: "https://raw.githubusercontent.com/Cultura-Difusa/Portales_Libro/main/Portales%20con%20Historia-min.jpg"
+  label2: "Carpinteros"
+  link2: "#carpinteros"
+  label3: "Galería"
+  link3: "#galeria"
+  label4: "Repositorio"
+  link4: "https://github.com/Cultura-Difusa/Portales_Repositorio"
+  label5: "Redes"
+  link5: "#redes"
+image: "images/spotlight01.jpg"

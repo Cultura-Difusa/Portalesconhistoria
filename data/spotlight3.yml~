@@ -1,0 +1,20 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "proyecto3"
+title : "Patrimonio e Identidad"
+content: |
+  Si bien el patrimonio inmueble del sur de Chile no es del todo escaso, pese a una realidad histórica plagada de eventos extremos, si lo es su registro, estudio y reconocimiento. Queda como testimonio poco más que los propios edificios y objetos arquitectónicos que se mantienen aún en pie. Nuestro deseo es que este trabajo sirva también para afianzar la necesidad de reconocer y proteger <strong>toda</strong> herencia cultural material e inmaterial regional, que entendemos proceso necesario en la tarea de configurar un futuro común. Esperamos lo propio para los inmuebles y, en particular, los objetos arquitectónicos (puertas y ventanas ornamentadas) aquí recogidos. Objetos que confiamos este catastro ponga en valor, facilitando su reconocimiento y protección en esta y otras regiones.
+button: 
+  label: "Inicio"
+  link: "#"
+  label1: "Libro"
+  link1: "#Libro"
+  label2: "Carpinteros"
+  link2: "#carpinteros"
+  label3: "Galería"
+  link3: "#galeria"
+  label4: "Repositorio"
+  link4: "#repositorio"
+  label5: "Redes"
+  link5: "#redes"
+image: "images/spotlight03.jpg"
