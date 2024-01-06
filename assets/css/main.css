@@ -37,7 +37,7 @@ body
   display: block;
   position: fixed;
   top: 40px;
-  left: 40px;
+  left: 20px;
   
   z-index: 1;
   
@@ -87,7 +87,7 @@ body
   margin-bottom: 5px;
   position: relative;
   
-  background: #cdcdcd;
+  background: #232323;
   border-radius: 3px;
   
   z-index: 1;
