@@ -28,16 +28,16 @@ body
   
   /* make it look decent enough */
   background: #232323;
-  color: #cdcdcd;
+  color: #232323;
   font-family: "Avenir Next", "Avenir", sans-serif;
 }
 
 #menuToggle
 {
   display: block;
-  position: relative;
+  position: fixed;
   top: 40px;
-  left: 40px;
+  left: 20px;
   
   z-index: 1;
   
